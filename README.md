@@ -1,26 +1,25 @@
 # 🎓 College Canteen & Notice Management System
 
-A web-based application developed to manage canteen timetable, gallery, and notice board functionalities within a college environment.
+A dynamic web-based management system designed to streamline canteen operations and digital notice board communication within a college environment. The system enables secure administrative control while providing students with real-time updates and announcements.
+
+## 🎯 Project Objective
+
+The objective of this project is to:
+
+- Digitize the traditional college notice board
+- Provide secure admin-controlled announcements
+- Display and manage weekly canteen menus
+- Improve transparency and communication between administration and students
+- Offer a simple yet functional full-stack PHP web application
 
 
-## 🚀 Features
+## 🏗️ System Architecture
 
-- 🔐 Admin Login Authentication (Session-based)
-- 📢 Admin Notice Posting with Image Upload
-- 🧑‍🎓 Student Notice Posting
-- 🍽️ Weekly Canteen Timetable Management
-- 🖼️ College Image Gallery
-- 📂 File-based Data Storage
-- 🛡️ Session Handling using PHP
-
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- XAMPP (Apache Server)
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: PHP
+- Server: Apache (XAMPP)
+- Data Storage: File-based storage (.txt files)
+- Authentication: PHP Session Management
 
 
 ## 📂 Project Structure
@@ -48,7 +47,8 @@ college-canteen-notice-management-system/
 1. Install XAMPP
 2. Move project folder inside `htdocs`
 3. Start Apache from XAMPP Control Panel
-4. Open browser and visit:http://localhost/college-canteen-notice-management-system/
+4. Open browser and visit:
+   http://localhost/college-canteen-notice-management-system/
 
 
 ## 📸 Screenshots
@@ -57,18 +57,46 @@ college-canteen-notice-management-system/
 ![Home](screenshots/home.png)
 
 ### 🔐 Admin Login
-![Admin Login](screenshots/admin_login.png)
+![Admin Login](screenshots/admin-login.png)
 
-### 🛠️ Admin Panel
-![Admin Panel](screenshots/canteen_timetable.png)
+### 🛠️ Canteen Timetable
+![Admin Panel](screenshots/canteen-timetable.png)
 
 ### 📢 Notice Board
-![Notice Board](screenshots/notices_board.png)
+![Notice Board](screenshots/notice-board.png)
 
+
+
+## 🌟 Key Highlights
+
+- Secure admin authentication system
+- Image upload functionality for notices
+- Editable canteen timetable
+- Local storage integration (JavaScript)
+- Structured folder architecture
+- Responsive UI design
+- Clean and maintainable codebase
+
+
+## 💡 Technical Implementation Details
+
+- Implemented session-based authentication for admin access.
+- Used PHP file handling functions for persistent notice storage.
+- Integrated image upload functionality using multipart form data.
+- Utilized JavaScript localStorage for dynamic timetable updates.
+- Structured modular folder architecture for maintainability.
 
 
 ## 👩‍💻 Developed By
 
-Leela  
-3rd Year Engineering Student
+Leela  Raja Rajeswari
+B.Tech – 3rd Year Engineering Student  
 
+
+## 📈 Future Improvements
+
+- MySQL database integration
+- Role-based authentication
+- Notice filtering & search functionality
+- Admin dashboard analytics
+- Deployment on cloud hosting
