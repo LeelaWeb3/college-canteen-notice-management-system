@@ -38,7 +38,7 @@ college-canteen-notice-management-system/
 ├── screenshots/
     ├── home.png
     ├── admin-login.png
-    ├── admin-panel.png
+    ├── canteen-timetable.png
     └──notice-board.png
    
 
@@ -57,13 +57,13 @@ college-canteen-notice-management-system/
 ![Home](screenshots/home.png)
 
 ### 🔐 Admin Login
-![Admin Login](screenshots/admin-login.png)
+![Admin Login](screenshots/admin_login.png)
 
 ### 🛠️ Canteen Timetable
-![Admin Panel](screenshots/canteen-timetable.png)
+![Admin Panel](screenshots/canteen_timetable.png)
 
 ### 📢 Notice Board
-![Notice Board](screenshots/notice-board.png)
+![Notice Board](screenshots/notice_board.png)
 
 
 
