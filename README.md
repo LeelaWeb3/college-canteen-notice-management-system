@@ -63,7 +63,7 @@ college-canteen-notice-management-system/
 ![Admin Panel](screenshots/canteen_timetable.png)
 
 ### 📢 Notice Board
-![Notice Board](screenshots/notice_board.png)
+![Notice Board](screenshots/notices_board.png)
 
 
 
